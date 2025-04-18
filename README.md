@@ -6,7 +6,7 @@ A simple and responsive calculator that performs basic arithmetic operations. Bu
 
 ## 🔗 Live Demo
 
-👉 [Click here to try it now](https://msdhinesh45.github.io/Calci/) *(update this link if hosted)*
+👉 [Click here to try it now](https://msdhinesh45.github.io/Calci/)
 
 ---
 
